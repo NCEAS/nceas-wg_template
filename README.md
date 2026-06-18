@@ -1,15 +1,12 @@
-# GROUP NAME HERE
+# [Group Type] Group Title
 
-Principal Investigators:
-- PI NAME HERE
+Principal Investigators: _Name, Name, ..._
 
 ## Script Explanations
 
-Briefly describe the purpose of each script (or folder of scripts) here as you create them!
+Briefly describe the purpose of major scripts as you create them!
 
-## Related Repositories
-
-- TBD (recommend including user/repository name, link, and brief description)
+- 
 
 ## Supplementary Resources
 
